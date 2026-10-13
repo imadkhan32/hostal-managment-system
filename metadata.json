@@ -1,0 +1,8 @@
+{
+  "name": "Remix UniStay Hostel Management System",
+  "description": "Comprehensive hostel management platform for universities featuring room allocation, drag-and-drop analytics dashboard, role-based access, automated notifications, payments, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
